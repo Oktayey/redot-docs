@@ -2,9 +2,6 @@
 !redirects.csv
 .env
 
-_build/
-_build-old/
-_migrated/
 env/
 __pycache__
 *.pyc
@@ -49,3 +46,12 @@ tmp-unused-images-history
 
 # User created Python virtual environement as described in the docs
 godot-docs-venv/
+
+# Jetbrains IDE files
+/.idea/
+
+_build/
+_migrated/
+_sphinx/
+_repo/
+*.log
