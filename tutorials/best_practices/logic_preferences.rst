@@ -140,7 +140,7 @@ consider:
       perhaps not even initialized until later).
 
    2. If the script requires a great many dependencies, and one does not wish
-      to consume so much memory, then one may wish to, load and unload various
+      to consume so much memory, then one may wish to load and unload various
       dependencies at runtime as circumstances change. If one preloads
       resources into constants, then the only way to unload these resources
       would be to unload the entire script. If they are instead loaded
