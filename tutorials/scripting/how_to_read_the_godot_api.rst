@@ -123,7 +123,7 @@ For each enumeration, the page states its name and then lists its possible
 values.
 
 For each enumeration value, the page states its name, its integer value, and
-an explanation of its use case(s) and/or affects.
+an explanation of its use case(s) and/or effects.
 
 Constants
 ---------
@@ -133,7 +133,7 @@ Constants
 The Constants list details named integer constants in the current class.
 
 For each constant, the page states its name, its integer value, and an
-explanation of its use case(s) and/or affects.
+explanation of its use case(s) and/or effects.
 
 ``NOTIFICATION_*`` constants' descriptions will state which engine event
 triggers the notification.
@@ -151,7 +151,7 @@ Every property in the Godot API is bound to a pair of setter and getter
 functions. Using either is equivalent. They are listed here.
 
 Below that is a detailed summary of what the property's data represents, its
-use case(s) and/or the affects of changing it. It may include code samples
+use case(s) and/or the effects of changing it. It may include code samples
 and/or links to relevant parts of the Godot API.
 
 .. note:: Knowing the setter and getter names is useful when one must bind a
