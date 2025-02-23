@@ -63,7 +63,7 @@ Property Descriptions
 - |void| **set_constant_angular_velocity**\ (\ value\: :ref:`float<class_float>`\ )
 - :ref:`float<class_float>` **get_constant_angular_velocity**\ (\ )
 
-The body's constant angular velocity. This does not rotate the body, but affects touching bodies, as if it were rotating.
+The body's constant angular velocity. This does not rotate the body, but affects touching bodies as if it were rotating.
 
 .. rst-class:: classref-item-separator
 
@@ -80,7 +80,7 @@ The body's constant angular velocity. This does not rotate the body, but affects
 - |void| **set_constant_linear_velocity**\ (\ value\: :ref:`Vector2<class_Vector2>`\ )
 - :ref:`Vector2<class_Vector2>` **get_constant_linear_velocity**\ (\ )
 
-The body's constant linear velocity. This does not move the body, but affects touching bodies, as if it were moving.
+The body's constant linear velocity. This does not move the body, but affects touching bodies as if it were moving.
 
 .. rst-class:: classref-item-separator
 
